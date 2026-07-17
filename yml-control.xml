@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-07-17 12:00">
+  <shop>
+    <name>Точная мастерская</name>
+    <company>ООО Точная мастерская</company>
+    <url>https://goidactf.github.io/</url>
+    <platform>Static Store</platform>
+    <version>1.0</version>
+    <currencies><currency id="RUR" rate="1"/></currencies>
+    <categories>
+      <category id="1">Инструменты</category>
+      <category id="2" parentId="1">Электроинструмент</category>
+      <category id="3" parentId="1">Ручной инструмент</category>
+      <category id="4" parentId="1">Измерительный инструмент</category>
+    </categories>
+    <delivery-options><option cost="390" days="1-3" order-before="18"/></delivery-options>
+    <offers>
+      <offer id="1001" available="true"><url>https://goidactf.github.io/product-1001.html</url><price>4990</price><currencyId>RUR</currencyId><categoryId>2</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><pickup>true</pickup><store>true</store><name>Аккумуляторная дрель TM-12</name><vendor>Tochka Tools</vendor><vendorCode>TM-12</vendorCode><description>Двухскоростная дрель 12 В с двумя аккумуляторами и кейсом.</description><manufacturer_warranty>true</manufacturer_warranty><country_of_origin>Китай</country_of_origin><param name="Напряжение" unit="В">12</param></offer>
+      <offer id="1002" available="true"><url>https://goidactf.github.io/product-1002.html</url><price>3290</price><currencyId>RUR</currencyId><categoryId>4</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><pickup>true</pickup><store>true</store><name>Лазерный уровень TL-20</name><vendor>Tochka Tools</vendor><vendorCode>TL-20</vendorCode><description>Самовыравнивающийся уровень, две линии, дальность 20 метров.</description></offer>
+      <offer id="1003" available="true"><url>https://goidactf.github.io/product-1003.html</url><price>1490</price><currencyId>RUR</currencyId><categoryId>3</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><pickup>true</pickup><store>true</store><name>Набор отвёрток TS-24</name><vendor>Tochka Tools</vendor><vendorCode>TS-24</vendorCode><description>Набор из 24 отвёрток и бит в кейсе.</description></offer>
+      <offer id="1004" available="true"><url>https://goidactf.github.io/product-1004.html</url><price>690</price><currencyId>RUR</currencyId><categoryId>4</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Рулетка TR-5</name><vendor>Tochka Tools</vendor><vendorCode>TR-5</vendorCode><description>Рулетка 5 метров с автостопом.</description></offer>
+      <offer id="1005" available="true"><url>https://goidactf.github.io/product-1005.html</url><price>1190</price><currencyId>RUR</currencyId><categoryId>3</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Набор свёрл TD-19</name><vendor>Tochka Tools</vendor><vendorCode>TD-19</vendorCode><description>19 свёрл по металлу в кассете.</description></offer>
+      <offer id="1006" available="true"><url>https://goidactf.github.io/product-1006.html</url><price>3890</price><currencyId>RUR</currencyId><categoryId>2</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Шлифовальная машина TG-125</name><vendor>Tochka Tools</vendor><vendorCode>TG-125</vendorCode><description>Угловая шлифовальная машина 900 Вт.</description></offer>
+      <offer id="1007" available="true"><url>https://goidactf.github.io/product-1007.html</url><price>2390</price><currencyId>RUR</currencyId><categoryId>2</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Строительный фен TH-2000</name><vendor>Tochka Tools</vendor><vendorCode>TH-2000</vendorCode><description>Строительный фен мощностью 2000 Вт.</description></offer>
+      <offer id="1008" available="true"><url>https://goidactf.github.io/product-1008.html</url><price>1790</price><currencyId>RUR</currencyId><categoryId>4</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Мультиметр TM-600</name><vendor>Tochka Tools</vendor><vendorCode>TM-600</vendorCode><description>Цифровой мультиметр с подсветкой.</description></offer>
+      <offer id="1009" available="true"><url>https://goidactf.github.io/product-1009.html</url><price>890</price><currencyId>RUR</currencyId><categoryId>3</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Клещи универсальные TP-180</name><vendor>Tochka Tools</vendor><vendorCode>TP-180</vendorCode><description>Клещи из инструментальной стали.</description></offer>
+      <offer id="1010" available="true"><url>https://goidactf.github.io/product-1010.html</url><price>990</price><currencyId>RUR</currencyId><categoryId>3</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Верстачный зажим TC-75</name><vendor>Tochka Tools</vendor><vendorCode>TC-75</vendorCode><description>Быстрозажимной механизм, раскрытие 75 мм.</description></offer>
+      <offer id="1011" available="true"><url>https://goidactf.github.io/product-1011.html</url><price>390</price><currencyId>RUR</currencyId><categoryId>3</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Защитные очки TG-1</name><vendor>Tochka Tools</vendor><vendorCode>TG-1</vendorCode><description>Прозрачные защитные очки.</description></offer>
+      <offer id="1012" available="true"><url>https://goidactf.github.io/product-1012.html</url><price>1290</price><currencyId>RUR</currencyId><categoryId>3</categoryId><picture>https://goidactf.github.io/tool.svg</picture><delivery>true</delivery><name>Ящик для инструмента TB-16</name><vendor>Tochka Tools</vendor><vendorCode>TB-16</vendorCode><description>Пластиковый ящик 16 дюймов.</description></offer>
+    </offers>
+  </shop>
+</yml_catalog>

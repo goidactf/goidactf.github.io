@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#eff6ff"/>
+  <path d="M210 130h190c35 0 55 22 55 53v50H300l-30 55h-85l45-95h-20z" fill="#2563eb"/>
+  <rect x="360" y="220" width="70" height="110" rx="12" fill="#1e3a8a"/>
+  <circle cx="252" cy="193" r="22" fill="#bfdbfe"/>
+  <text x="320" y="375" text-anchor="middle" font-family="Arial" font-size="28" fill="#172554">Точная мастерская</text>
+</svg>
